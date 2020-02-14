@@ -1,3 +1,16 @@
-p{
-    font-family: Helvetica;
+body {
+    background-color: black;
+    font-family: Verdana,sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header{
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.link{
+    color: aquamarine;
+    font-size: 16px;
 }
